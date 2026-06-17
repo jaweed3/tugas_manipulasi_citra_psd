@@ -1,10 +1,12 @@
 # Manipulasi Citra Digital
 
-**Nama:** Fatih Jawwad Al Mumtaz
-**NIM:** 452024611047
-**Kelas:** Teknik Informatika -- Semester 5
-**Mata Kuliah:** Pengolahan Sinyal Digital
-**Dosen Pengampu:** Assoc. Prof. Dr. Oddy Virgantara Putra, S.Kom., M.T.
+| | |
+|---|---|
+| **Nama** | Fatih Jawwad Al Mumtaz |
+| **NIM** | 452024611047 |
+| **Kelas** | Teknik Informatika -- Semester 5 |
+| **Mata Kuliah** | Pengolahan Sinyal Digital |
+| **Dosen Pengampu** | Assoc. Prof. Dr. Oddy Virgantara Putra, S.Kom., M.T. |
 
 ## Deskripsi
 
